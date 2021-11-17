@@ -1,26 +1,9 @@
 ### Hi there 👋
 
-const MicaelaFossati = {
-      fullName: "Micaela Fossati",
-      profession: "Full Stack Dev 💻", 
-      currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
-      spokenLanguages: ["español 🧉🥟", "english ☕💂"],
-      techStack: {
-        code: JavaScript,
-        tools: {
-          frontEnd: [React, Redux, CSS, Material-UI],
-          backEnd: [Node, Express, Sequelize],
-          databases: {
-            sql: PostgreSQL,
-            nosql: MongoDB
-          },
-          deployment: [Heroku, Vercel, Netifly],
-          versionControl: Git,
-        },
-      },
-      currentlyLearning: [Python, TypeScript, AWS, Solidity, JAVA ],
-      ToDolist: [Socket, Firebase, React-Native, Next, Nest, Deno, GraphQL, Angular, 
-                 Vue, Mocha, Jest, Docker, Flutter],
-    };
+Mi nombre es Micaela Fossati. Soy Full-Stack developer, con +800hs de formacion en trabajos individuales y grupales. 
+Tecnologias aplicadas: React, Redux, CSS, Material-UI, Node, Express, Sequelize.
+Actualmente me estoy capacitando en JAVA y Phyton. 
+
+
     
      Check Out My Repos ⬇️
