@@ -4,5 +4,3 @@ Mi nombre es Micaela Fossati! Tengo 26 años, actualmente vivo en Mar del Plata-
 ➡️Tecnologias aplicadas: React, Redux, CSS, Material-UI, Node, Express, Sequelize.<br/>
 Actualmente me estoy capacitando en JAVA y Phyton.🤓
 
-    
-     Check Out My Repos ⬇️
